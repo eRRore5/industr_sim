@@ -1,0 +1,4 @@
+repository "industr_sim@kercherbek@cloud"
+  path "/"
+    br "/main"
+    co "/main"
